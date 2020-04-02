@@ -1,0 +1,14 @@
+package flight.system.test;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class SkyscannerTest {
+
+    @Test
+    public void test() {
+        fail("Not yet implemented");
+    }
+
+}
